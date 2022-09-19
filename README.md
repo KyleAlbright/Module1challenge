@@ -39,4 +39,6 @@ THEN I find a concise, descriptive title
 
 Deployed URL link: https://kylealbright.github.io/Module1challenge/#social-media-marketing
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets\images\Mod1Completed1024_1.jpg)
+
+
+(https://user-images.githubusercontent.com/110487869/191135737-6c0a7391-e355-43f8-a548-c9f075024099.jpg)
