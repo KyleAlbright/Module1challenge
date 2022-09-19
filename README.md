@@ -41,4 +41,4 @@ Deployed URL link: https://kylealbright.github.io/Module1challenge/#social-media
 
 
 
-(https://user-images.githubusercontent.com/110487869/191135737-6c0a7391-e355-43f8-a548-c9f075024099.jpg)
+![](https://user-images.githubusercontent.com/110487869/191135737-6c0a7391-e355-43f8-a548-c9f075024099.jpg)
