@@ -37,7 +37,7 @@ THEN I find a concise, descriptive title
 * Consolidated CSS elements, and commented changes. 
 
 
-Deployed URL link: https://kylealbright.github.io/Module1challenge/#social-media-marketing
+Deployed URL link: https://kylealbright.github.io/UTBChoriSEOnRefactor/#social-media-marketing
 
 
 
